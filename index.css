@@ -17,4 +17,10 @@ header {
     display: flex;
     flex-direction: column-reverse;
 }
+#nav-bar a{
+
+}
+button {
+    background-color: #f1c40f;
+}
 
